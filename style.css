@@ -56,7 +56,7 @@ blockquote {
   margin-bottom: var(--spacing);
 }
 
-blockquote p {
+blockquote p a {
   color: black;
   background-color: white;
   font-size: 4rem;
